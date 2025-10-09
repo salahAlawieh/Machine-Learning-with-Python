@@ -1,2 +1,2 @@
-# Machine-Learning-with-Python
-Machine Learning with Python
+# Machine-Learning-with-Python-Projects
+Machine Learning with Python Projects

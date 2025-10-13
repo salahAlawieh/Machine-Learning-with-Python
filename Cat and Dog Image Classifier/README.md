@@ -1,5 +1,7 @@
 Original Code: https://colab.research.google.com/github/freeCodeCamp/boilerplate-cat-and-dog-image-classifier/blob/master/fcc_cat_dog.ipynb
+
 Solution Details: https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/cat-and-dog-image-classifier
+
 
 Cat and Dog Image Classifier
 You will be working on this project with Google Colaboratory.
